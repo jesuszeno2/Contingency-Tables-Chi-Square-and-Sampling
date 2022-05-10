@@ -1,4 +1,4 @@
-# Jesus Zeno Assignment 4
+# Jesus Zeno
 
 # Let's start by making dataframe of exon nucleotide frequency
 exons = data.frame( first = c(18, 28, 33, 21),
