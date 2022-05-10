@@ -1,1 +1,2 @@
-# Contingency-Tables-Chi-Square-and-Sampling
+# Contingency Tables, Chi-Square, and Sampling
+
